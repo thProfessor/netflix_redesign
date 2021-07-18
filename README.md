@@ -1,6 +1,6 @@
 # Netflix Clone #
 ---
-<img src='/netflix2.png' alt='logoapp'/>
+<img src='/netflix_home.png' alt='logoapp'/>
 
 ### About App ###
 
